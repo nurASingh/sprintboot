@@ -1,1 +1,1 @@
-# sprintboot
+# This is sprintboot demo application
